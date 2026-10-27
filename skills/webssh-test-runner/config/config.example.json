@@ -1,0 +1,18 @@
+{
+  "websshUrl": "http://127.0.0.1:2222/ssh",
+  "websshHome": "",
+  "websshAutoStart": false,
+  "headless": true,
+  "browserWidth": 1440,
+  "browserHeight": 1000,
+  "ssh": {
+    "host": "",
+    "port": 22,
+    "username": ""
+  },
+  "allowedHosts": [],
+  "commandTimeoutMs": 30000,
+  "pageTimeoutMs": 20000,
+  "evidenceDir": "evidence",
+  "logLevel": "info"
+}
