@@ -1,0 +1,16 @@
+# Secrets — never commit real values
+.env
+*.local
+
+# Node
+node_modules/
+npm-debug.log*
+*.log
+
+# Evidence / screenshots generated during runs
+evidence/*
+!evidence/.gitkeep
+
+# OS junk
+.DS_Store
+Thumbs.db
